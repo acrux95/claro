@@ -1,0 +1,33 @@
+@import '../../../styles/variables.scss';
+
+body {
+  background: $black;
+}
+
+.list {
+  &_search {
+    margin: 2rem auto;
+    display: flex;
+    justify-content: space-around;
+    div{
+      display: flex;
+      flex-direction: row;
+      height: 2rem;
+      p{
+        color: $white;
+        margin-right: 2rem;
+        display: flex;
+        align-items: center;
+      }
+      input {
+        
+      }
+    }
+  }
+  &_section {
+    margin: 0 auto;
+    width: 94%;
+    flex-wrap: wrap;
+    padding: 1rem;
+  }
+}
