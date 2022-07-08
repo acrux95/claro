@@ -1,0 +1,17 @@
+@import '../../../styles/variables.scss';
+
+.details {
+  display: flex;
+  flex-direction: row;
+  margin: 4rem 1rem;
+  &_image {
+    img {
+      max-width: 500px;
+    }
+  }
+  &_description {
+    p {
+      color: $white;
+    }
+  }
+}
