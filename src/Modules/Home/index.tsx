@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useEffect, useState, useMemo, SetStateAction } from 'react';
 import {Link} from 'react-router-dom';
 import './Home.scss';
@@ -8,8 +9,8 @@ const Home = () => {
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [search, setSearch] = useState('');
-  const API = 'https://mfwkweb-api.clarovideo.net/services/content/list?device_id=web&device_category=web&device_model=web&device_type=web&device_so=Chrome&format=json&device_manufacturer=generic&authpn=webclient&authpt=tfg1h3j4k6fd7&api_version=v5.93&region=mexico&HKS=8ssspdg7rjufgbgk823q1irqv1&quantity=50&from=0&level_id=GPS&order_way=ASC&order_id=50&filter_id=34270';
   useEffect(() => {
+    const API = 'https://mfwkweb-api.clarovideo.net/services/content/list?device_id=web&device_category=web&device_model=web&device_type=web&device_so=Chrome&format=json&device_manufacturer=generic&authpn=webclient&authpt=tfg1h3j4k6fd7&api_version=v5.93&region=mexico&HKS=8ssspdg7rjufgbgk823q1irqv1&quantity=50&from=0&level_id=GPS&order_way=ASC&order_id=50&filter_id=34270';
     fetch(API)
       .then(res => res.json())
       .then(
@@ -46,7 +47,7 @@ const Home = () => {
         </section>
         <section className='list_section'>
       {
-        resp.response.groups.map((title) => (
+        filteredTitles.map((title) => (
       <>
           <div className='list_section_card' key={title.title}>
             <Link to="/details" className='card_link'>
