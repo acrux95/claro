@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const store = createStore(
   videosReducer,
-  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
 );
 
 root.render(
@@ -23,5 +23,5 @@ root.render(
         <App />
       </BrowserRouter>
     </Provider>
-  </React.StrictMode>
+  </React.StrictMode>,
 );

@@ -27,11 +27,8 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
     setSelected(videoSelected[0]);
   };
   const filteredTitles = useMemo(
-    () =>
-      videos.filter((title) =>
-        title.title.toLowerCase().includes(search.toLowerCase())
-      ),
-    [search, videos]
+    () => videos.filter((title) => title.title.toLowerCase().includes(search.toLowerCase())),
+    [search, videos],
   );
   const handleSearch = (event) => {
     setSearch(event.target.value);
