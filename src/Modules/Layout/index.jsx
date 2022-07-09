@@ -1,13 +1,15 @@
-import { Header } from '../../Components/Header';
+/* eslint-disable react/prop-types */
+/* eslint-disable react/react-in-jsx-scope */
+/* eslint-disable import/prefer-default-export */
+import { Header } from "../../Components/Header";
 
-
-const Layout = ({ children }) => {
+function Layout({ children }) {
   return (
-    <div className='App'>
+    <div className="App">
       <Header />
-      { children }
+      {children}
     </div>
   );
-};
+}
 
-export {Layout};
+export { Layout };

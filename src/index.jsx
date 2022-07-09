@@ -1,15 +1,15 @@
-import ReactDOM from 'react-dom/client';
+/* eslint-disable no-underscore-dangle */
+/* eslint-disable jest/require-hook */
+import React from "react";
+import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
-import { Provider } from 'react-redux';
-import { legacy_createStore as createStore } from 'redux';
-import {videosReducer} from './reducers';
+import { Provider } from "react-redux";
+import { legacy_createStore as createStore } from "redux";
+import { videosReducer } from "./reducers";
 
+import App from "./App";
 
-import App from './App';
-import React from 'react';
-
-const root = ReactDOM.createRoot(
-  document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const store = createStore(
   videosReducer,
