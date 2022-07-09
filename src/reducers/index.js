@@ -1,16 +1,16 @@
-import { SET_VIDEOS, SET_SEARCH } from "../actions/types";
+import { SET_VIDEOS, SET_SEARCH, SET_SELECTED } from "../actions/types";
 
 const initialState = {
   videos: [],
-  search: '',
+  selected: [],
 };
 
 export const videosReducer = (state = initialState, action) => {
   switch (action.type) {
     case SET_VIDEOS:
       return { ...state, videos: action.payload}
-    case SET_SEARCH:
-      return { ...state, search: action.payload}
+    case SET_SELECTED:
+      return { ...state, selected: action.payload}
   default:
     return state
   }
