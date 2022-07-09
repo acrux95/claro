@@ -4,11 +4,11 @@ import {Link} from 'react-router-dom';
 import { connect } from 'react-redux';
 
 import resp from '../../mocks/response.json';
-import { setVideos as setVideosActions } from '../../actions';
+import { setSelected as setSelectedActions, setVideos as setVideosActions } from '../../actions';
 import { getVideos } from '../../api';
 
 import './Home.scss';
-const Home = ({videos, setVideos}) => {
+const Home = ({videos, setVideos, setSelected}) => {
   const [search, setSearch] = useState('');
   // useEffect(() => {
   //   const fetchVideos = async () => {
@@ -16,9 +16,10 @@ const Home = ({videos, setVideos}) => {
   //     setVideos(VideosRes);
   //   };
   //   fetchVideos();
-  //   console.log(videos)
-  // }, [setVideos, videos]);
+ 
+  // }, [videos]);
  setVideos(resp.response.groups)
+
   const handleSearch = (event) => {
     setSearch(event.target.value)
   }
@@ -26,6 +27,10 @@ const Home = ({videos, setVideos}) => {
     videos.filter((title) => {
       return title.title.toLowerCase().includes(search.toLowerCase());
     }),[search, videos]);
+  const handleSelect = (event) => {
+    const videoSelected = videos.filter((sel) => sel.id === event.target.id)
+    setSelected(videoSelected[0])
+  }
   return(
     <section className='list'>
         <section className='list_search'>
@@ -38,9 +43,9 @@ const Home = ({videos, setVideos}) => {
       {
         filteredTitles.map((title) => (
       <>
-          <div className='list_section_card' key={title}>
-            <Link to="/details" className='card_link' >
-              <img src={title.image_small} alt={title}  key={title}/>
+          <div className='list_section_card' key={title.title} id={title.id}>
+            <Link to="/details" className='card_link' onClick={handleSelect} key={title.title} id={title.id}>
+              <img src={title.image_small} alt={title}  key={title.title} id={title.id} object={title}/>
             </Link>
           </div>
       </>
@@ -56,5 +61,6 @@ const mapStateToProps = (state) => ({
   });
 const mapDispatchToProps = (dispatch) => ({
   setVideos: (value) => dispatch(setVideosActions(value)),
+  setSelected: (value) => dispatch(setSelectedActions(value)),
 });
 export default connect(mapStateToProps, mapDispatchToProps)(Home);
