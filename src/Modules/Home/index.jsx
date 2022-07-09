@@ -4,8 +4,6 @@
 import { useEffect, useMemo } from "react";
 import { Link } from "react-router-dom";
 import { connect } from "react-redux";
-
-import resp from "../../mocks/response.json";
 import {
   setSelected as setSelectedActions,
   setVideos as setVideosActions,
@@ -19,10 +17,7 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
   useEffect(() => {
     const fetchVideos = async () => {
       const videosRes = await getVideos();
-      // eslint-disable-next-line no-undefined
-      videosRes === undefined
-        ? setVideos(resp.response.groups)
-        : setVideos(videosRes);
+      setVideos(videosRes);
     };
     fetchVideos();
   }, [setVideos]);
