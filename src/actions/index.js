@@ -1,13 +1,11 @@
-export const setFavorite = (payload) => (
-  {
-    type: 'SET_FAVORITE',
-    payload,
-  }
-);
+import { SET_VIDEOS, SET_SEARCH } from "./types";
 
-export const deleteFavorite = (payload) => (
-  {
-    type: 'DELETE_FAVORITE',
-    payload,
-  }
-);
+export const setVideos = (payload) => ({
+  type: SET_VIDEOS,
+  payload,
+});
+
+export const setSearch = (payload) => ({
+  type: SET_SEARCH,
+  payload,
+});

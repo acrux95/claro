@@ -1,20 +1,17 @@
-const reducer = (state, action) => {
-  switch (action.type) {
-    case 'SET_FAVORITE':
-      const exist = state.myList.find(item => item.id === action.payload.id);
-      if (exist) return { ...state };
-      return {
-        ...state,
-        myList: [...state.myList, action.payload],
-      };
-    case 'DELETE_FAVORITE':
-      return {
-        ...state,
-        myList: state.myList.filter(items => items.id !== action.payload),
-      };
-    default:
-      return state;
-  }
+import { SET_VIDEOS, SET_SEARCH } from "../actions/types";
+
+const initialState = {
+  videos: [],
+  search: '',
 };
 
-export default reducer;
+export const videosReducer = (state = initialState, action) => {
+  switch (action.type) {
+    case SET_VIDEOS:
+      return { ...state, videos: action.payload}
+    case SET_SEARCH:
+      return { ...state, search: action.payload}
+  default:
+    return state
+  }
+};
