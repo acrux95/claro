@@ -19,7 +19,7 @@ const Home = ({videos, search, setVideos, setSelected, setSearch}) => {
       console.log(videosRes)
     };
     fetchVideos();
-  }, [3]);
+  }, [setVideos]);
 
   const handleSelect = (event) => {
     const videoSelected = videos.filter((sel) => sel.id === event.target.id)
