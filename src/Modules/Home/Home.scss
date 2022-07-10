@@ -1,26 +1,30 @@
 @import '../../styles/variables.scss';
 
-body {
-  background: $black;
-}
-
 .list {
   &_search {
     margin: 2rem auto;
     display: flex;
     justify-content: space-around;
-    div{
+    width: 100vw;
+    &_input{
       display: flex;
       flex-direction: row;
       height: 2rem;
+      align-items: center;
       p{
-        color: $white;
         margin-right: 2rem;
         display: flex;
         align-items: center;
       }
       input {
-        
+        height: 2rem;
+        width: 28vw;
+        border-radius: 120px;
+        background-color: $black;
+        color: $white;
+        border: 1px solid $white;
+        padding: 2px 15px;
+        font-size: $medium;
       }
     }
   }
