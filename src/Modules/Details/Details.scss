@@ -1,17 +1,35 @@
 @import '../../styles/variables.scss';
 
 .details {
-  display: flex;
-  flex-direction: row;
   margin: 4rem 1rem;
-  &_image {
-    img {
-      max-width: 500px;
-    }
+  width: 80%;
+  h3 {
+    margin: 6rem 0;
   }
-  &_description {
-    p {
-      color: $white;
+  &_section {
+    display: flex;
+    flex-direction: row;
+    &_image {
+      display: flex;
+      align-items: center;
+      img {
+        width: 35vw;
+      }
+    }
+    &_description {
+      margin: 0 15px;
+      p {
+        font-size: $little;
+      }
+      &_actors {
+        display: flex;
+        flex-wrap: wrap;
+        p {
+          margin: 2px 12px 0 0;
+          text-decoration: underline;
+          cursor: pointer;
+        }
+      }
     }
   }
 }
