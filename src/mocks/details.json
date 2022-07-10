@@ -1,0 +1,1242 @@
+{
+  "entry": {
+      "device_id": "web",
+      "device_category": "web",
+      "device_model": "web",
+      "device_type": "web",
+      "device_so": "Chrome",
+      "format": "json",
+      "device_manufacturer": "generic",
+      "authpn": "webclient",
+      "authpt": "tfg1h3j4k6fd7",
+      "api_version": "v5.93",
+      "region": "mexico",
+      "HKS": "3tafqt1dcpo2uppqm47p139iq5",
+      "group_id": "755521"
+  },
+  "response": {
+      "group": {
+          "common": {
+              "position": 0,
+              "id": "755521",
+              "title": "Spider-Man: de regreso a casa",
+              "description": "Un joven, Peter Parker, comienza a navegar su nueva identidad como el superhéroe Spider Man.",
+              "large_description": "Luego de su experiencia con los Vengadores, Peter Parker regresa a casa, donde vive con su tía May bajo la atenta mirada de su mentor Tony Stark. Aunque intenta no recurrir a su identidad oculta, su tranquilidad es interrumpida por el Buitre.",
+              "short_description": null,
+              "duration": "02:13:27",
+              "image_large_alt": "Spider-Man: de regreso a casa",
+              "image_medium_alt": "Spider-Man: de regreso a casa",
+              "image_small_alt": "Spider-Man: de regreso a casa",
+              "image_large": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWHORIZONTAL.jpg?size=675x380",
+              "image_medium": "https://clarovideocdn5.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWVERTICAL.jpg?size=200x300",
+              "image_small": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWHORIZONTAL.jpg?size=290x163",
+              "image_still": "https://clarovideocdn6.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/STILLS/SPIDERMANHOMECOMING-STILL-01.jpg",
+              "image_background": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/CLEAN/SPIDERMANHOMECOMING_e-1280x720.jpg",
+              "image_base_horizontal": "https://clarovideocdn4.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWHORIZONTAL.jpg",
+              "image_base_vertical": "https://clarovideocdn2.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWVERTICAL.jpg",
+              "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWCUADRADO.jpg",
+              "image_clean_horizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/CLEAN/SPIDERMANHOMECOMINGWHORIZONTAL.jpg",
+              "image_clean_vertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/CLEAN/SPIDERMANHOMECOMINGWVERTICAL.jpg",
+              "image_clean_square": "https://clarovideocdn5.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/CLEAN/SPIDERMANHOMECOMINGWCUADRADO.jpg",
+              "image_sprites": "https://clarovideocdn8.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SPRITES/SPIDERMANHOMECOMING-SPRITEBAR.jpg",
+              "image_frames": "https://clarovideocdn4.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SPRITES/SPIDERMANHOMECOMING-00h-00m-00s-00f.jpg",
+              "image_external": null,
+              "image_trickplay": "https://clarovideocdn8.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SPRITES/SPIDERMANHOMECOMING-TRICKPLAY.bif",
+              "date": "15/03/2022",
+              "media_type": "2",
+              "title_uri": "Spider-Man-de-regreso-a-casa",
+              "extendedcommon": {
+                  "keywords": {
+                      "keyword": [
+                          "5123",
+                          "5320",
+                          "5421",
+                          "5461",
+                          "5520",
+                          "6700"
+                      ]
+                  },
+                  "genres": {
+                      "genre": [
+                          {
+                              "id": "52820",
+                              "name": "Anime",
+                              "desc": "Anime"
+                          },
+                          {
+                              "id": "51131",
+                              "name": "Action",
+                              "desc": "Acción"
+                          },
+                          {
+                              "id": "51162",
+                              "name": "Thriller",
+                              "desc": "Thriller"
+                          },
+                          {
+                              "id": "51022",
+                              "name": "Adventure",
+                              "desc": "Aventura"
+                          },
+                          {
+                              "id": "51105",
+                              "name": "Drama",
+                              "desc": "Drama"
+                          },
+                          {
+                              "id": "51220",
+                              "name": "Sci-Fi",
+                              "desc": "Ciencia ficción"
+                          }
+                      ]
+                  },
+                  "roles": {
+                      "role": [
+                          {
+                              "id": "13617516",
+                              "name": "Actor",
+                              "desc": "Actor",
+                              "talents": {
+                                  "talent": [
+                                      {
+                                          "id": "13623140",
+                                          "name": "Michael",
+                                          "surname": "Keaton",
+                                          "fullname": "Keaton, Michael"
+                                      },
+                                      {
+                                          "id": "13622158",
+                                          "name": "Marisa",
+                                          "surname": "Tomei",
+                                          "fullname": "Tomei, Marisa"
+                                      },
+                                      {
+                                          "id": "13641049",
+                                          "name": "Bokeem",
+                                          "surname": "Woodbine",
+                                          "fullname": "Woodbine, Bokeem"
+                                      },
+                                      {
+                                          "id": "123340305",
+                                          "name": "Tony",
+                                          "surname": "Revolori",
+                                          "fullname": "Revolori, Tony"
+                                      },
+                                      {
+                                          "id": "138678830",
+                                          "name": "Laura",
+                                          "surname": "Harrier",
+                                          "fullname": "Harrier, Laura"
+                                      },
+                                      {
+                                          "id": "138678829",
+                                          "name": "Jacob",
+                                          "surname": "Batalon",
+                                          "fullname": "Batalon, Jacob"
+                                      },
+                                      {
+                                          "id": "117268491",
+                                          "name": "Donald",
+                                          "surname": "Glover",
+                                          "fullname": "Glover, Donald"
+                                      },
+                                      {
+                                          "id": "116701318",
+                                          "name": "Zendaya",
+                                          "surname": " ",
+                                          "fullname": ", Zendaya"
+                                      },
+                                      {
+                                          "id": "13662156",
+                                          "name": "Gwyneth",
+                                          "surname": "Paltrow",
+                                          "fullname": "Paltrow, Gwyneth"
+                                      },
+                                      {
+                                          "id": "13632430",
+                                          "name": "Tom",
+                                          "surname": "Holland",
+                                          "fullname": "Holland, Tom"
+                                      },
+                                      {
+                                          "id": "15026108",
+                                          "name": "Robert",
+                                          "surname": "Downey Jr.",
+                                          "fullname": "Downey Jr., Robert"
+                                      },
+                                      {
+                                          "id": "13659935",
+                                          "name": "Jon",
+                                          "surname": "Favreau",
+                                          "fullname": "Favreau, Jon"
+                                      }
+                                  ]
+                              }
+                          },
+                          {
+                              "id": "13617517",
+                              "name": "Director",
+                              "desc": "Director",
+                              "talents": {
+                                  "talent": [
+                                      {
+                                          "id": "123241900",
+                                          "name": "Jon",
+                                          "surname": "Watts",
+                                          "fullname": "Watts, Jon"
+                                      }
+                                  ]
+                              }
+                          },
+                          {
+                              "id": "13965643",
+                              "name": "Writer",
+                              "desc": "Escritor",
+                              "talents": {
+                                  "talent": [
+                                      {
+                                          "id": "136387988",
+                                          "name": "Christopher",
+                                          "surname": "Ford",
+                                          "fullname": "Ford, Christopher"
+                                      },
+                                      {
+                                          "id": "84552018",
+                                          "name": "John Francis",
+                                          "surname": "Daley",
+                                          "fullname": "Daley, John Francis"
+                                      },
+                                      {
+                                          "id": "138674780",
+                                          "name": "Erik",
+                                          "surname": "Sommers",
+                                          "fullname": "Sommers, Erik"
+                                      },
+                                      {
+                                          "id": "138674813",
+                                          "name": "Chris",
+                                          "surname": "McKenna",
+                                          "fullname": "McKenna, Chris"
+                                      },
+                                      {
+                                          "id": "89445932",
+                                          "name": "Jonathan",
+                                          "surname": "Goldstein",
+                                          "fullname": "Goldstein, Jonathan"
+                                      },
+                                      {
+                                          "id": "123241900",
+                                          "name": "Jon",
+                                          "surname": "Watts",
+                                          "fullname": "Watts, Jon"
+                                      }
+                                  ]
+                              }
+                          },
+                          {
+                              "id": "13965645",
+                              "name": "Producer",
+                              "desc": "Productor",
+                              "talents": {
+                                  "talent": [
+                                      {
+                                          "id": "132119574",
+                                          "name": "Kevin",
+                                          "surname": "Feige",
+                                          "fullname": "Feige, Kevin"
+                                      },
+                                      {
+                                          "id": "136072643",
+                                          "name": "Amy",
+                                          "surname": "Pascal",
+                                          "fullname": "Pascal, Amy"
+                                      }
+                                  ]
+                              }
+                          }
+                      ]
+                  },
+                  "format": {
+                      "id": "42223249",
+                      "name": "Type 6",
+                      "types": "susc",
+                      "sell_type": "susc",
+                      "est": "N"
+                  },
+                  "media": {
+                      "originaltitle": "Spider-Man: Homecoming",
+                      "description_extended": "Luego de su experiencia con los Vengadores, Peter Parker regresa a casa, donde vive con su tía May bajo la atenta mirada de su mentor Tony Stark. Aunque intenta no recurrir a su identidad oculta, su tranquilidad es interrumpida por el Buitre.",
+                      "publishyear": "2017",
+                      "boxoffice": "315.22",
+                      "rating": {
+                          "id": "30",
+                          "code": "PG-13",
+                          "desc": "Apta para mayores de 13"
+                      },
+                      "duration": "02:13:27",
+                      "haspreview": "true",
+                      "countryoforigin": {
+                          "code": "US",
+                          "desc": "Estados Unidos"
+                      },
+                      "profile": {
+                          "audiotype": "Stereo",
+                          "videotype": "Color",
+                          "screenformat": "16:9",
+                          "hd": {
+                              "enabled": "true",
+                              "detail": "720p"
+                          }
+                      },
+                      "islive": "0",
+                      "livetype": null,
+                      "liveref": null,
+                      "timeshift": null,
+                      "encoder_tecnology": {
+                          "id": null,
+                          "desc": null
+                      },
+                      "recorder_technology": {
+                          "id": null,
+                          "desc": null
+                      },
+                      "resource_name": null,
+                      "rollingcreditstime": "-30",
+                      "rollingcreditstimedb": null,
+                      "proveedor": {
+                          "id": "1",
+                          "codigo": "amco",
+                          "nombre": "AMCO"
+                      },
+                      "rights": {
+                          "start_date": "2022-03-15",
+                          "end_date": "2022-11-30"
+                      },
+                      "channel_number": null,
+                      "language": {
+                          "original": {
+                              "id": "ING",
+                              "desc": "Inglés"
+                          },
+                          "dubbed": "true",
+                          "subbed": "true",
+                          "options": {
+                              "option": [
+                                  {
+                                      "group_id": "755521",
+                                      "content_id": "735814",
+                                      "current_content": "false",
+                                      "option_id": "D-PT",
+                                      "audio": "PT",
+                                      "subtitle": null,
+                                      "option_name": "dubbed",
+                                      "id": "PT",
+                                      "desc": "Portugués",
+                                      "label_short": "Dob. Portugués",
+                                      "label_large": "Doblada al Portugués",
+                                      "intro_start_time": null,
+                                      "intro_finish_time": null,
+                                      "credits_start_time": "-30",
+                                      "encodes": [
+                                          "hls",
+                                          "hlsfps",
+                                          "hlsprm",
+                                          "est_sd",
+                                          "est_hd",
+                                          "smooth_streaming",
+                                          "dashpr",
+                                          "dashwv"
+                                      ],
+                                      "fast_play": []
+                                  },
+                                  {
+                                      "group_id": "755521",
+                                      "content_id": "735997",
+                                      "current_content": "false",
+                                      "option_id": "D-ES",
+                                      "audio": "ES",
+                                      "subtitle": null,
+                                      "option_name": "dubbed",
+                                      "id": "ES",
+                                      "desc": "Español",
+                                      "label_short": "Dob. Español",
+                                      "label_large": "Doblada al Español",
+                                      "intro_start_time": null,
+                                      "intro_finish_time": null,
+                                      "credits_start_time": "-30",
+                                      "encodes": [
+                                          "hls",
+                                          "hlsfps",
+                                          "hlsprm",
+                                          "est_sd",
+                                          "est_hd",
+                                          "smooth_streaming",
+                                          "dashpr",
+                                          "dashwv"
+                                      ],
+                                      "fast_play": []
+                                  },
+                                  {
+                                      "group_id": "755521",
+                                      "content_id": "737805",
+                                      "current_content": "false",
+                                      "option_id": "S-ES",
+                                      "audio": "ORIGINAL",
+                                      "subtitle": "ES",
+                                      "option_name": "subbed",
+                                      "id": "ES",
+                                      "desc": "Español",
+                                      "label_short": "Subt. Español",
+                                      "label_large": "Subtitulada al Español",
+                                      "intro_start_time": null,
+                                      "intro_finish_time": null,
+                                      "credits_start_time": "-24",
+                                      "encodes": [
+                                          "hls",
+                                          "hlsfps",
+                                          "hls_ma",
+                                          "hlsfps_ma",
+                                          "hlsprm",
+                                          "est_sd",
+                                          "est_hd",
+                                          "smooth_streaming",
+                                          "smooth_streaming_ma",
+                                          "dashpr",
+                                          "dashwv",
+                                          "dashwv_ma",
+                                          "dashpr_ma"
+                                      ],
+                                      "fast_play": []
+                                  },
+                                  {
+                                      "group_id": "755521",
+                                      "content_id": "737806",
+                                      "current_content": "false",
+                                      "option_id": "S-PT",
+                                      "audio": "ORIGINAL",
+                                      "subtitle": "PT",
+                                      "option_name": "subbed",
+                                      "id": "PT",
+                                      "desc": "Portugués",
+                                      "label_short": "Subt. Portugués",
+                                      "label_large": "Subtitulada al Portugués",
+                                      "intro_start_time": null,
+                                      "intro_finish_time": null,
+                                      "credits_start_time": "-24",
+                                      "encodes": [
+                                          "hls",
+                                          "hlsfps",
+                                          "hls_ma",
+                                          "hlsfps_ma",
+                                          "hlsprm",
+                                          "est_sd",
+                                          "est_hd",
+                                          "smooth_streaming",
+                                          "smooth_streaming_ma",
+                                          "dashpr",
+                                          "dashwv",
+                                          "dashwv_ma",
+                                          "dashpr_ma"
+                                      ],
+                                      "fast_play": []
+                                  },
+                                  {
+                                      "group_id": "755521",
+                                      "content_id": "1001410",
+                                      "current_content": "false",
+                                      "option_id": "O-EN",
+                                      "audio": "ORIGINAL",
+                                      "subtitle": null,
+                                      "option_name": "original",
+                                      "id": "EN",
+                                      "desc": "Inglés",
+                                      "label_short": "Id. Inglés",
+                                      "label_large": "Idioma Original",
+                                      "intro_start_time": null,
+                                      "intro_finish_time": null,
+                                      "credits_start_time": "-24",
+                                      "encodes": [
+                                          "hls",
+                                          "hlsfps",
+                                          "hls_ma",
+                                          "hlsfps_ma",
+                                          "hlsprm",
+                                          "est_sd",
+                                          "est_hd",
+                                          "smooth_streaming",
+                                          "smooth_streaming_ma",
+                                          "dashpr",
+                                          "dashwv",
+                                          "dashwv_ma",
+                                          "dashpr_ma"
+                                      ],
+                                      "fast_play": []
+                                  }
+                              ],
+                              "count": 5
+                          }
+                      }
+                  }
+              },
+              "ranking": {
+                  "views_count": 0,
+                  "votes_count": 2908,
+                  "average_votes": 4
+              }
+          },
+          "universal_id": {
+              "content_providers": [
+                  {
+                      "group_id": "755521",
+                      "provider_id": "1",
+                      "provider_code": "amco"
+                  },
+                  {
+                      "group_id": "768052",
+                      "provider_id": "4",
+                      "provider_code": "hbo"
+                  },
+                  {
+                      "group_id": "768135",
+                      "provider_id": "4",
+                      "provider_code": "hbo"
+                  },
+                  {
+                      "group_id": "839632",
+                      "provider_id": "10",
+                      "provider_code": "now"
+                  },
+                  {
+                      "group_id": "845793",
+                      "provider_id": "10",
+                      "provider_code": "now"
+                  },
+                  {
+                      "group_id": "867481",
+                      "provider_id": "10",
+                      "provider_code": "now"
+                  }
+              ],
+              "metadata_providers": {
+                  "gracenote": {
+                      "reference_id": "12798844",
+                      "provider_id": "3",
+                      "provider_code": "gracenote"
+                  }
+              }
+          },
+          "external": {
+              "gracenote": {
+                  "id": "12798844",
+                  "provider_id": "3",
+                  "provider_code": "gracenote",
+                  "title": "Spider-Man: Homecoming",
+                  "description": "Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver descubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.",
+                  "duration": "02:13:00",
+                  "publishyear": "2017",
+                  "official_url": "http://www.spidermanhomecoming.com/",
+                  "rating": "PG-13",
+                  "rating_classind": null,
+                  "cast": [
+                      {
+                          "role_id": "1",
+                          "role_name": "Actor",
+                          "talents": [
+                              {
+                                  "id": "1017024",
+                                  "first_name": "Isabella",
+                                  "last_name": "Amara",
+                                  "image": "https://clarovideocdn3.clarovideo.net/GRACENOTE/TALENT/1017024/EXPORTACION_WEB/1017024.jpg",
+                                  "internal_ids": [
+                                      138677300
+                                  ]
+                              },
+                              {
+                                  "id": "995077",
+                                  "first_name": "Jacob",
+                                  "last_name": "Batalon",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/995077/EXPORTACION_WEB/995077.jpg",
+                                  "internal_ids": [
+                                      138678829
+                                  ]
+                              },
+                              {
+                                  "id": "968556",
+                                  "first_name": "Michael",
+                                  "last_name": "Barbieri",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/968556/EXPORTACION_WEB/968556.jpg",
+                                  "internal_ids": [
+                                      138681686
+                                  ]
+                              },
+                              {
+                                  "id": "968151",
+                                  "first_name": "Jorge",
+                                  "last_name": "Lendeborg",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/968151/EXPORTACION_WEB/968151.jpg",
+                                  "internal_ids": []
+                              },
+                              {
+                                  "id": "891154",
+                                  "first_name": "Abraham",
+                                  "last_name": "Attah",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/891154/EXPORTACION_WEB/891154.jpg",
+                                  "internal_ids": [
+                                      169526016
+                                  ]
+                              },
+                              {
+                                  "id": "798777",
+                                  "first_name": "Laura",
+                                  "last_name": "Harrier",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/798777/EXPORTACION_WEB/798777.jpg",
+                                  "internal_ids": [
+                                      138678830
+                                  ]
+                              },
+                              {
+                                  "id": "758579",
+                                  "first_name": "Angourie",
+                                  "last_name": "Rice",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/758579/EXPORTACION_WEB/758579.jpg",
+                                  "internal_ids": [
+                                      137667287
+                                  ]
+                              },
+                              {
+                                  "id": "733885",
+                                  "first_name": "Tom",
+                                  "last_name": "Holland",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/733885/EXPORTACION_WEB/733885.jpg",
+                                  "internal_ids": [
+                                      13632430
+                                  ]
+                              },
+                              {
+                                  "id": "717214",
+                                  "first_name": "J.J.",
+                                  "last_name": "Totah",
+                                  "image": "",
+                                  "internal_ids": [
+                                      138754532
+                                  ]
+                              },
+                              {
+                                  "id": "591658",
+                                  "first_name": "Zendaya",
+                                  "last_name": null,
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/591658/EXPORTACION_WEB/591658.jpg",
+                                  "internal_ids": [
+                                      116701318
+                                  ]
+                              },
+                              {
+                                  "id": "584762",
+                                  "first_name": "Hannibal",
+                                  "last_name": "Buress",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/584762/EXPORTACION_WEB/584762.jpg",
+                                  "internal_ids": [
+                                      122416520
+                                  ]
+                              },
+                              {
+                                  "id": "573277",
+                                  "first_name": "Selenis",
+                                  "last_name": "Leyva",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/573277/EXPORTACION_WEB/573277.jpg",
+                                  "internal_ids": [
+                                      138754530
+                                  ]
+                              },
+                              {
+                                  "id": "573162",
+                                  "first_name": "Tony",
+                                  "last_name": "Revolori",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/573162/EXPORTACION_WEB/573162.jpg",
+                                  "internal_ids": [
+                                      123340305
+                                  ]
+                              },
+                              {
+                                  "id": "550133",
+                                  "first_name": "Donald",
+                                  "last_name": "Glover",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/550133/EXPORTACION_WEB/550133.jpg",
+                                  "internal_ids": [
+                                      117268491
+                                  ]
+                              },
+                              {
+                                  "id": "549688",
+                                  "first_name": "Michael",
+                                  "last_name": "Chernus",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/549688/EXPORTACION_WEB/549688.jpg",
+                                  "internal_ids": [
+                                      126530628
+                                  ]
+                              },
+                              {
+                                  "id": "535486",
+                                  "first_name": "Michael",
+                                  "last_name": "Mando",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/535486/EXPORTACION_WEB/535486.jpg",
+                                  "internal_ids": [
+                                      131382040
+                                  ]
+                              },
+                              {
+                                  "id": "515327",
+                                  "first_name": "Tiffany",
+                                  "last_name": "Espensen",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/515327/EXPORTACION_WEB/515327.jpg",
+                                  "internal_ids": [
+                                      128183676
+                                  ]
+                              },
+                              {
+                                  "id": "495318",
+                                  "first_name": "Hemky",
+                                  "last_name": "Madera",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/495318/EXPORTACION_WEB/495318.jpg",
+                                  "internal_ids": [
+                                      138680962
+                                  ]
+                              },
+                              {
+                                  "id": "308666",
+                                  "first_name": "Logan",
+                                  "last_name": "Marshall-Green",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/308666/EXPORTACION_WEB/308666.jpg",
+                                  "internal_ids": [
+                                      55208286
+                                  ]
+                              },
+                              {
+                                  "id": "297842",
+                                  "first_name": "Gary",
+                                  "last_name": "Weeks",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/297842/EXPORTACION_WEB/297842.jpg",
+                                  "internal_ids": [
+                                      138754531
+                                  ]
+                              },
+                              {
+                                  "id": "259888",
+                                  "first_name": "Tunde",
+                                  "last_name": "Adebimpe",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/259888/EXPORTACION_WEB/259888.jpg",
+                                  "internal_ids": [
+                                      33424037
+                                  ]
+                              },
+                              {
+                                  "id": "213670",
+                                  "first_name": "Christopher",
+                                  "last_name": "Berry",
+                                  "image": "",
+                                  "internal_ids": [
+                                      136861485
+                                  ]
+                              },
+                              {
+                                  "id": "167021",
+                                  "first_name": "Martin",
+                                  "last_name": "Starr",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/167021/EXPORTACION_WEB/167021.jpg",
+                                  "internal_ids": [
+                                      110456453
+                                  ]
+                              },
+                              {
+                                  "id": "83718",
+                                  "first_name": "Kenneth",
+                                  "last_name": "Choi",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/83718/EXPORTACION_WEB/83718.jpg",
+                                  "internal_ids": [
+                                      138673442
+                                  ]
+                              },
+                              {
+                                  "id": "71093",
+                                  "first_name": "Jon",
+                                  "last_name": "Favreau",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/71093/EXPORTACION_WEB/71093.jpg",
+                                  "internal_ids": [
+                                      13659935
+                                  ]
+                              },
+                              {
+                                  "id": "68412",
+                                  "first_name": "Garcelle",
+                                  "last_name": "Beauvais-Nilon",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/68412/EXPORTACION_WEB/68412.jpg",
+                                  "internal_ids": [
+                                      138671374
+                                  ]
+                              },
+                              {
+                                  "id": "67369",
+                                  "first_name": "Robert",
+                                  "last_name": "Downey",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/67369/EXPORTACION_WEB/67369.jpg",
+                                  "internal_ids": [
+                                      13626746,
+                                      13636815,
+                                      15026108,
+                                      138677503,
+                                      138708958
+                                  ]
+                              },
+                              {
+                                  "id": "45497",
+                                  "first_name": "Michael",
+                                  "last_name": "Keaton",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/45497/EXPORTACION_WEB/45497.jpg",
+                                  "internal_ids": [
+                                      13623140
+                                  ]
+                              },
+                              {
+                                  "id": "43134",
+                                  "first_name": "Marisa",
+                                  "last_name": "Tomei",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/43134/EXPORTACION_WEB/43134.jpg",
+                                  "internal_ids": [
+                                      13622158
+                                  ]
+                              },
+                              {
+                                  "id": "25268",
+                                  "first_name": "Gwyneth",
+                                  "last_name": "Paltrow",
+                                  "image": "https://clarovideocdn9.clarovideo.net/GRACENOTE/TALENT/25268/EXPORTACION_WEB/25268.jpg",
+                                  "internal_ids": [
+                                      13662156,
+                                      80414488
+                                  ]
+                              },
+                              {
+                                  "id": "8905",
+                                  "first_name": "Bokeem",
+                                  "last_name": "Woodbine",
+                                  "image": "https://clarovideocdn7.clarovideo.net/GRACENOTE/TALENT/8905/EXPORTACION_WEB/8905.jpg",
+                                  "internal_ids": [
+                                      13641049
+                                  ]
+                              },
+                              {
+                                  "id": "399",
+                                  "first_name": "Tyne",
+                                  "last_name": "Daly",
+                                  "image": "https://clarovideocdn5.clarovideo.net/GRACENOTE/TALENT/399/EXPORTACION_WEB/399.jpg",
+                                  "internal_ids": [
+                                      138672192
+                                  ]
+                              },
+                              {
+                                  "id": "350",
+                                  "first_name": "Jennifer",
+                                  "last_name": "Connelly",
+                                  "image": "https://clarovideocdn5.clarovideo.net/GRACENOTE/TALENT/350/EXPORTACION_WEB/350.jpg",
+                                  "internal_ids": [
+                                      13664221
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "29",
+                          "role_name": "Art Director",
+                          "talents": [
+                              {
+                                  "id": "1070069",
+                                  "first_name": "Lauren",
+                                  "last_name": "Abiouness",
+                                  "image": "",
+                                  "internal_ids": [
+                                      172086905
+                                  ]
+                              },
+                              {
+                                  "id": "648990",
+                                  "first_name": "Audra",
+                                  "last_name": "Avery",
+                                  "image": "",
+                                  "internal_ids": [
+                                      172086907
+                                  ]
+                              },
+                              {
+                                  "id": "490128",
+                                  "first_name": "Beat",
+                                  "last_name": "Frutiger",
+                                  "image": "",
+                                  "internal_ids": []
+                              },
+                              {
+                                  "id": "459215",
+                                  "first_name": "Brad",
+                                  "last_name": "Ricker",
+                                  "image": "",
+                                  "internal_ids": [
+                                      172086986
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "62",
+                          "role_name": "Casting",
+                          "talents": [
+                              {
+                                  "id": "456656",
+                                  "first_name": "Sarah Halley",
+                                  "last_name": "Finn",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/456656/EXPORTACION_WEB/456656.jpg",
+                                  "internal_ids": []
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "74",
+                          "role_name": "Cinematographer",
+                          "talents": [
+                              {
+                                  "id": "457317",
+                                  "first_name": "Salvatore",
+                                  "last_name": "Totino",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/457317/EXPORTACION_WEB/457317.jpg",
+                                  "internal_ids": [
+                                      172087047
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "99",
+                          "role_name": "Costume Designer",
+                          "talents": [
+                              {
+                                  "id": "466779",
+                                  "first_name": "Louise",
+                                  "last_name": "Frogley",
+                                  "image": "",
+                                  "internal_ids": [
+                                      172087049
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "114",
+                          "role_name": "Director",
+                          "talents": [
+                              {
+                                  "id": "660076",
+                                  "first_name": "Jon",
+                                  "last_name": "Watts",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/660076/EXPORTACION_WEB/660076.jpg",
+                                  "internal_ids": [
+                                      123241900
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "132",
+                          "role_name": "Executive Producer",
+                          "talents": [
+                              {
+                                  "id": "519745",
+                                  "first_name": "Jeremy",
+                                  "last_name": "Latcham",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/519745/EXPORTACION_WEB/519745.jpg",
+                                  "internal_ids": [
+                                      138696938
+                                  ]
+                              },
+                              {
+                                  "id": "438379",
+                                  "first_name": "Patricia",
+                                  "last_name": "Whitcher",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/438379/EXPORTACION_WEB/438379.jpg",
+                                  "internal_ids": [
+                                      138695429
+                                  ]
+                              },
+                              {
+                                  "id": "432171",
+                                  "first_name": "Matthew",
+                                  "last_name": "Tolmach",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/432171/EXPORTACION_WEB/432171.jpg",
+                                  "internal_ids": [
+                                      138674492,
+                                      138680444
+                                  ]
+                              },
+                              {
+                                  "id": "269101",
+                                  "first_name": "Stan",
+                                  "last_name": "Lee",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/269101/EXPORTACION_WEB/269101.jpg",
+                                  "internal_ids": [
+                                      72299902
+                                  ]
+                              },
+                              {
+                                  "id": "234606",
+                                  "first_name": "Avi",
+                                  "last_name": "Arad",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/234606/EXPORTACION_WEB/234606.jpg",
+                                  "internal_ids": [
+                                      132119560
+                                  ]
+                              },
+                              {
+                                  "id": "195027",
+                                  "first_name": "Victoria",
+                                  "last_name": "Alonso",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/195027/EXPORTACION_WEB/195027.jpg",
+                                  "internal_ids": [
+                                      138689145
+                                  ]
+                              },
+                              {
+                                  "id": "164520",
+                                  "first_name": "Louis",
+                                  "last_name": "D'Esposito",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/164520/EXPORTACION_WEB/164520.jpg",
+                                  "internal_ids": [
+                                      138679492
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "136",
+                          "role_name": "Film Editor",
+                          "talents": [
+                              {
+                                  "id": "523245",
+                                  "first_name": "Debbie",
+                                  "last_name": "Berman",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/523245/EXPORTACION_WEB/523245.jpg",
+                                  "internal_ids": [
+                                      172087069
+                                  ]
+                              },
+                              {
+                                  "id": "389817",
+                                  "first_name": "Dan",
+                                  "last_name": "Lebental",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/389817/EXPORTACION_WEB/389817.jpg",
+                                  "internal_ids": [
+                                      172087132
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "204",
+                          "role_name": "Original Music",
+                          "talents": [
+                              {
+                                  "id": "475600",
+                                  "first_name": "Michael",
+                                  "last_name": "Giacchino",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/475600/EXPORTACION_WEB/475600.jpg",
+                                  "internal_ids": [
+                                      172087134
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "216",
+                          "role_name": "Producer",
+                          "talents": [
+                              {
+                                  "id": "590425",
+                                  "first_name": "Amy",
+                                  "last_name": "Pascal",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/590425/EXPORTACION_WEB/590425.jpg",
+                                  "internal_ids": [
+                                      136072643
+                                  ]
+                              },
+                              {
+                                  "id": "363901",
+                                  "first_name": "Kevin",
+                                  "last_name": "Feige",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/363901/EXPORTACION_WEB/363901.jpg",
+                                  "internal_ids": [
+                                      132119574
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "228",
+                          "role_name": "Production Design",
+                          "talents": [
+                              {
+                                  "id": "464944",
+                                  "first_name": "Oliver",
+                                  "last_name": "Scholl",
+                                  "image": "",
+                                  "internal_ids": []
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "253",
+                          "role_name": "Screenwriter",
+                          "talents": [
+                              {
+                                  "id": "869456",
+                                  "first_name": "Christopher",
+                                  "last_name": "Ford",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/869456/EXPORTACION_WEB/869456.jpg",
+                                  "internal_ids": [
+                                      136387988
+                                  ]
+                              },
+                              {
+                                  "id": "690609",
+                                  "first_name": "Erik",
+                                  "last_name": "Sommers",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/690609/EXPORTACION_WEB/690609.jpg",
+                                  "internal_ids": [
+                                      138674780
+                                  ]
+                              },
+                              {
+                                  "id": "665989",
+                                  "first_name": "Chris",
+                                  "last_name": "McKenna",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/665989/EXPORTACION_WEB/665989.jpg",
+                                  "internal_ids": [
+                                      138674813
+                                  ]
+                              },
+                              {
+                                  "id": "663829",
+                                  "first_name": "Jonathan M.",
+                                  "last_name": "Goldstein",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/663829/EXPORTACION_WEB/663829.jpg",
+                                  "internal_ids": [
+                                      89445932
+                                  ]
+                              },
+                              {
+                                  "id": "660076",
+                                  "first_name": "Jon",
+                                  "last_name": "Watts",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/660076/EXPORTACION_WEB/660076.jpg",
+                                  "internal_ids": [
+                                      123241900
+                                  ]
+                              },
+                              {
+                                  "id": "189544",
+                                  "first_name": "John Francis",
+                                  "last_name": "Daley",
+                                  "image": "https://clarovideocdn1.clarovideo.net/GRACENOTE/TALENT/189544/EXPORTACION_WEB/189544.jpg",
+                                  "internal_ids": [
+                                      84552018
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "role_id": "264",
+                          "role_name": "Set Decoration",
+                          "talents": [
+                              {
+                                  "id": "457449",
+                                  "first_name": "Gene",
+                                  "last_name": "Serdena",
+                                  "image": "",
+                                  "internal_ids": []
+                              }
+                          ]
+                      }
+                  ],
+                  "genres": [
+                      "Acción",
+                      "Aventuras",
+                      "Comedy",
+                      "Fantasía"
+                  ],
+                  "keywords": [
+                      {
+                          "type": "Character",
+                          "keys": [
+                              "Aunt",
+                              "Iron Man",
+                              "Spider-Man",
+                              "Superhero",
+                              "Supervillain"
+                          ]
+                      },
+                      {
+                          "type": "General",
+                          "keys": [
+                              "Teen"
+                          ]
+                      },
+                      {
+                          "type": "Mood",
+                          "keys": [
+                              "Cheeky",
+                              "Confident",
+                              "Incredible",
+                              "Rousing"
+                          ]
+                      },
+                      {
+                          "type": "Setting",
+                          "keys": [
+                              "High school",
+                              "House",
+                              "Neighborhood",
+                              "New York City",
+                              "Office",
+                              "Street"
+                          ]
+                      },
+                      {
+                          "type": "Subject",
+                          "keys": [
+                              "High school",
+                              "Super powers",
+                              "Superhuman abilities",
+                              "Terrorism",
+                              "Work-life balance"
+                          ]
+                      },
+                      {
+                          "type": "Theme",
+                          "keys": [
+                              "Adventure",
+                              "Discovery",
+                              "Growing up",
+                              "Love",
+                              "Sacrifice",
+                              "Temptation"
+                          ]
+                      },
+                      {
+                          "type": "Time Period",
+                          "keys": [
+                              "21st century"
+                          ]
+                      }
+                  ]
+              }
+          }
+      }
+  },
+  "status": "0",
+  "msg": "OK"
+}

@@ -21,15 +21,19 @@
       p {
         font-size: $little;
       }
-      &_actors {
+      &_info {
         display: flex;
         flex-wrap: wrap;
+        &_talent {
+          text-decoration: none !important;
+        }
         p {
           margin: 2px 12px 0 0;
           text-decoration: underline;
           cursor: pointer;
         }
       }
+
     }
   }
 }

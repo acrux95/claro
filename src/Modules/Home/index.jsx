@@ -10,6 +10,7 @@ import {
   setSearch as setSearchActions,
 } from "../../actions";
 import { getVideos } from "../../api";
+import resp from "../../mocks/response.json";
 
 import "./Home.scss";
 
@@ -17,10 +18,12 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
   useEffect(() => {
     const fetchVideos = async () => {
       const videosRes = await getVideos();
-      setVideos(videosRes);
+      // eslint-disable-next-line no-undefined
+      videosRes === undefined ? setVideos(resp.response.groups) : setVideos(videosRes);
     };
     fetchVideos();
-  }, [setVideos]);
+  }, []);
+
   const handleSelect = (event) => {
     setSelected(event.target.id);
   };
