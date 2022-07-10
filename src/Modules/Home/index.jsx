@@ -21,10 +21,8 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
     };
     fetchVideos();
   }, [setVideos]);
-
   const handleSelect = (event) => {
-    const videoSelected = videos.filter((sel) => sel.id === event.target.id);
-    setSelected(videoSelected[0]);
+    setSelected(event.target.id);
   };
   const filteredTitles = useMemo(
     () => videos.filter((title) => title.title.toLowerCase().includes(search.toLowerCase())),
@@ -37,7 +35,7 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
   return (
     <section className="list">
       <section className="list_search">
-        <div>
+        <div className="list_search_input">
           <p>Buscar:</p>
           <input type="text" value={search} onChange={handleSearch} />
         </div>
