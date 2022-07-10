@@ -1,4 +1,4 @@
-import { SET_VIDEOS, SET_SELECTED, SET_SEARCH } from "./types";
+import { SET_VIDEOS, SET_SELECTED, SET_SEARCH, SET_DETAILS } from "./types";
 
 export const setVideos = (payload) => ({
   type: SET_VIDEOS,
@@ -12,5 +12,10 @@ export const setSelected = (payload) => ({
 
 export const setSearch = (payload) => ({
   type: SET_SEARCH,
+  payload,
+});
+
+export const setDetails = (payload) => ({
+  type: SET_DETAILS,
   payload,
 });
