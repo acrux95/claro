@@ -5,7 +5,6 @@ import { useEffect } from "react";
 import { connect } from "react-redux";
 import axios from "axios";
 import { setDetails as setDetailsActions } from "../../actions";
-import mock from "../../mocks/details.json";
 import "./Details.scss";
 
 function Details({ selected, details, setDetails }) {
