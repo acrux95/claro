@@ -19,10 +19,12 @@ function Home({ videos, search, setVideos, setSelected, setSearch }) {
     const fetchVideos = async () => {
       const videosRes = await getVideos();
       // eslint-disable-next-line no-undefined
-      videosRes === undefined ? setVideos(resp.response.groups) : setVideos(videosRes);
+      videosRes === undefined
+        ? setVideos(resp.response.groups)
+        : setVideos(videosRes.data.response.groups);
     };
     fetchVideos();
-  }, []);
+  }, [setVideos]);
 
   const handleSelect = (event) => {
     setSelected(event.target.id);
