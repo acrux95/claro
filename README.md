@@ -2,6 +2,7 @@
 
 This project is a clone from SciFi category Claro Video, when you click on some title you can watch its details.
 This project was created with JavaScript, React JS and SASS.
+You can test this app at https://clarovideotest.netlify.app/details
 
 ## Available Scripts
 
