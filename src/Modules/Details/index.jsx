@@ -17,6 +17,7 @@ function Details({ selected, details, setDetails }) {
         );
         // eslint-disable-next-line no-unused-expressions, no-undefined
         const detailsResp = detailsRes.data.response.group.common;
+        console.log(detailsResp);
         // setDetails(detailsResp);
       } catch (error) {
         console.log(error);
