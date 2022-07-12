@@ -6,6 +6,7 @@ import { connect } from "react-redux";
 import axios from "axios";
 import { setDetails as setDetailsActions } from "../../actions";
 import "./Details.scss";
+import mock from "../../mocks/details.json";
 
 function Details({ selected, details, setDetails }) {
   useEffect(() => {
@@ -24,7 +25,7 @@ function Details({ selected, details, setDetails }) {
     };
     fetchVideos(selected);
   }, []);
-
+  // setDetails(mock.response.group.common);
   return (
     <section className="details">
       <h3>{details.title}</h3>
