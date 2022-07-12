@@ -3,28 +3,30 @@
 /* eslint-disable react/prop-types */
 import { useEffect, useMemo } from "react";
 import { Link } from "react-router-dom";
+import axios from "axios";
 import { connect } from "react-redux";
 import {
   setSelected as setSelectedActions,
   setVideos as setVideosActions,
   setSearch as setSearchActions,
 } from "../../actions";
-import { getVideos } from "../../api";
-import resp from "../../mocks/response.json";
-
 import "./Home.scss";
 
 function Home({ videos, search, setVideos, setSelected, setSearch }) {
   useEffect(() => {
     const fetchVideos = async () => {
-      const videosRes = await getVideos();
-      // eslint-disable-next-line no-undefined
-      videosRes === undefined
-        ? setVideos(resp.response.groups)
-        : setVideos(videosRes.data.response.groups);
+      try {
+        const videosRes = await axios.get(
+          "https://mfwkweb-api.clarovideo.net/services/content/list?device_id=web&device_category=web&device_model=web&device_type=web&device_so=Chrome&format=json&device_manufacturer=generic&authpn=webclient&authpt=tfg1h3j4k6fd7&api_version=v5.93&region=mexico&HKS=8ssspdg7rjufgbgk823q1irqv1&quantity=50&from=0&level_id=GPS&order_way=ASC&order_id=50&filter_id=34270",
+        );
+        setVideos(videosRes.data.response.groups);
+      } catch (error) {
+        // eslint-disable-next-line no-console
+        console.log(error);
+      }
     };
     fetchVideos();
-  }, [setVideos]);
+  }, []);
 
   const handleSelect = (event) => {
     setSelected(event.target.id);
