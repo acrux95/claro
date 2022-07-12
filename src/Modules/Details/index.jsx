@@ -24,7 +24,7 @@ function Details({ selected, details, setDetails }) {
     };
     fetchVideos(selected);
   }, []);
- 
+
   return (
     <section className="details">
       <h3>{details.title}</h3>
